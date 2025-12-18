@@ -17,6 +17,7 @@ The goal of this project is to demonstrate practical data analysis skills using 
 ## Project Structure
 
 titanic-survival-analysis/
+```
 ├── datasets/
 │ ├── titanic-Dataset.csv
 │ └── cleaned_titanic.csv
@@ -30,6 +31,7 @@ titanic-survival-analysis/
 │ └── Visual analysis of survival patterns and key variables
 │
 └── README.md
+```
 
 ---
 
